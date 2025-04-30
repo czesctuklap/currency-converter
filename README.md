@@ -5,7 +5,6 @@ A simple and efficient Currency Converter App built using `Kotlin Multiplatform 
 ### Features
 - **Cross-platform** - Shared business logic for Android and iOS
 - **Real-time currency conversion**
-- **Clean and modern UI**
 - **Error handling for network/API issues**
 - **Lightweight and responsive**
 
