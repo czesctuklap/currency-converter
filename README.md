@@ -1,6 +1,6 @@
 # Currency Converter App
 
-A simple and efficient Currency Converter App built using `Kotlin Multiplatform Mobile - KMM` and `Jestpack Compose` to share user inerface between platforms. This app allows users to convert between currencies in real-time on both `Android` and `iOS` platforms using up-to-date exchange rates from an external API.
+A simple and efficient Currency Converter App built using `Kotlin Multiplatform Mobile - KMM` and `Jetpack Compose` to share user inerface between platforms. This app allows users to convert between currencies in real-time on both `Android` and `iOS` platforms using up-to-date exchange rates from an external API.
 
 ### Features
 - **Cross-platform** - Shared business logic for Android and iOS
